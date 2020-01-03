@@ -1,0 +1,34 @@
+body{
+	background:linear-gradient(15deg,turquoise,paleturquoise,lightcyan,darkturquoise);
+}
+h1{
+	color: deeppink;
+	text-align: center;
+	/*text-decoration: underline;*/
+	text-shadow: 2px 2px dimgray;
+	font-weight: bold;
+	
+}
+h2{
+	color:navy;
+	text-decoration: underline;
+	text-decoration-color: gray;
+}
+h4{
+	color: teal;
+	text-decoration: underline;
+}
+#heading{
+	color:darkmagenta;
+	text-align: center;
+	font-weight:  bold;
+}
+
+#course-name
+{
+	font-weight: bold;
+}
+
+#dec{
+	text-align: center;
+}
